@@ -1,0 +1,8 @@
+@media only screen and (max-widht:600px) {
+
+
+    .main-navbar {
+        /* display: none; */
+        border: 2px solid magenta;
+    }
+}
